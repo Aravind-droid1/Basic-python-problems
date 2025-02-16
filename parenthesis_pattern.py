@@ -1,3 +1,4 @@
+#to print the parenthesis pattern number of times
 class para(object):
     def parenthesis(self,n):
         for i in range(1,n+1):
