@@ -3,7 +3,7 @@ class laptop:
     price=0
     processor=""
     ram=""
-    def greet(self):
+    def greet(self): 
         print("welcome!,have a look at the new model")
 #creating objects from a class
 hp=laptop()
