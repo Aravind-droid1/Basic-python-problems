@@ -2,7 +2,7 @@
 def finds(nums,finding):
     for i in range(len(nums)):
         #it works as the normal for loop method to find value
-        if nums[i]==finding:
+        if nums[i]==finding: 
             return i
     return -1
 
