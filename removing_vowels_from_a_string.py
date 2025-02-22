@@ -1,3 +1,4 @@
+#to remove the vowels from an string
 class solution(object):
     def vowels(self,s):
         r=""
