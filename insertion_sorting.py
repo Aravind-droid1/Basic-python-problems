@@ -1,3 +1,5 @@
+#insertion sort
+#it is an algorithm for sorting
 class solution():
     def sort(self,a):
         l=len(a)
