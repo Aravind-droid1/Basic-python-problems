@@ -7,7 +7,7 @@ def are_anagrams(s1, s2):
     # Check if lengths of both strings are equal
     if len(s1) != len(s2):
         return False
-    # Sort both strings and compare them
+    # Sort both strings and compare them  
     return sorted(s1) == sorted(s2)
 
 # Input strings
