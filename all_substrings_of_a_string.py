@@ -1,4 +1,4 @@
-#to print every possibilities of substrings of a main string 
+#to print every possibilities of substrings of a main string   
 def substrings_of_a_string():
     string=input()
     #here i is taken as initial to start from
